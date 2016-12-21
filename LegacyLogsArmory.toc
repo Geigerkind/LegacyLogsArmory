@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: LegacyLogsArmory |cFFFF8080-Shino-|r
+## Notes: This addon collects data for the Legacy Logs Armory.
+## Author: Shino <Synced> - Kronos
+## SavedVariables: LLADATA
+
+LegacyLogsArmory.lua
